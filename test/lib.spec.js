@@ -102,7 +102,7 @@ describe('Sendinblue transporter V2 API', function() {
         assert.deepStrictEqual(body.to, { 'example@test.net': '' });
         assert.deepStrictEqual(body.cc, { 'example@test.net': '' });
         assert.deepStrictEqual(body.bcc, { 'example@test.net': '' });
-        assert.deepStrictEqual(body.replyto, ['example@test.net', '']);
+        assert.deepStrictEqual(body.replyTo, ['example@test.net', '']);
         done();
       });
     });
@@ -261,7 +261,7 @@ describe('Sendinblue transporter V3 API', function() {
         assert.deepStrictEqual(body.to, { email: 'example@test.net' });
         assert.deepStrictEqual(body.cc, { email: 'example@test.net' });
         assert.deepStrictEqual(body.bcc, { email: 'example@test.net' });
-        assert.deepStrictEqual(body.replyto, { email: 'example@test.net' });
+        assert.deepStrictEqual(body.replyTo, { email: 'example@test.net' });
         done();
       });
     });
