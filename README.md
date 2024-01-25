@@ -1,5 +1,5 @@
 ![Github action workflow status](https://github.com/steve-lebleu/nodemailer-sendinblue-v3-transport/actions/workflows/build.yml/badge.svg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge.svg?branch=master)](https://coveralls.io/github/steve-lebleu/nodemailer-sendinblue-v3-transport?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge.svg?branch=master)](https://coveralls.io/github/steve-lebleu/nodemailer-sendinblue-v3-transport?tag=v1.0.1)
 [![CodeFactor](https://www.codefactor.io/repository/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge)](https://www.codefactor.io/repository/github/steve-lebleu/nodemailer-sendinblue-v3-transport)
 ![GitHub Release](https://img.shields.io/github/v/release/steve-lebleu/nodemailer-sendinblue-v3-transport?logo=Github)
 ![Known Vulnerabilities](https://snyk.io/test/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge.svg)
