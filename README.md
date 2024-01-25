@@ -1,17 +1,17 @@
-[![Build](https://github.com/konfer-be/nodemailer-sendinblue-v3-transport/actions/workflows/release.yml/badge.svg)](https://github.com/konfer-be/nodemailer-sendinblue-v3-transport/actions/workflows/release.yml)
-[![Coverage Status](https://coveralls.io/repos/github/konfer-be/nodemailer-sendinblue-v3-transport/badge.svg?branch=master)](https://coveralls.io/github/konfer-be/nodemailer-sendinblue-v3-transport?branch=master)
-![Requires.io (branch)](https://img.shields.io/requires/github/konfer-be/nodemailer-sendinblue-v3-transport/master)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/konfer-be/nodemailer-sendinblue-v3-transport)
-
+![Github action workflow status](https://github.com/steve-lebleu/nodemailer-sendinblue-v3-transport/actions/workflows/build.yml/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge.svg?branch=master)](https://coveralls.io/github/steve-lebleu/nodemailer-sendinblue-v3-transport?branch=master)
+[![CodeFactor](https://www.codefactor.io/repository/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge)](https://www.codefactor.io/repository/github/steve-lebleu/nodemailer-sendinblue-v3-transport)
+![GitHub Release](https://img.shields.io/github/v/release/steve-lebleu/nodemailer-sendinblue-v3-transport?logo=Github)
+![Known Vulnerabilities](https://snyk.io/test/github/steve-lebleu/nodemailer-sendinblue-v3-transport/badge.svg)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 # Sendinblue V2/3 transport module for Nodemailer
 
+:warning: This repository has been archived since Sendinblue is now Brevo, and Marcel is back on track.
+
 This module applies for [Nodemailer](http://www.nodemailer.com/) v2+ and provides a transport for [Sendinblue](https://www.sendinblue.com).
 
-Dirty and quickly forked from the [amazing but not maintened job](https://github.com/gotschmarcel/nodemailer-sendinblue-transport) of my guy Marcel :sunglasses:.
-
-Pull requests welcome.
+Dirty and quickly forked from the [amazing but not longer maintened job](https://github.com/gotschmarcel/nodemailer-sendinblue-transport) of my guy Marcel :sunglasses:.
 
 ## Usage
 
